@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Run Mock Backend server
+
+To get the data from REST APIs, use `npx json-server --watch mylist.json`. It will run a mock backend server. 
+
+## Final Output Screenshot
+
+The final output is shown as follows:
+
+![Todo-App-Screenshot](https://user-images.githubusercontent.com/71515872/171863058-c757f1b8-9ba4-45cc-9509-fa692f5c95e8.jpeg)
+
